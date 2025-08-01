@@ -1,0 +1,4 @@
+# @install: lix --silent download "gh://github.com/maitag/peote-view#5d080b06350ca215346f2751de382921aaf68853" into peote-view/1.0.4/github/5d080b06350ca215346f2751de382921aaf68853
+-lib lime
+-cp ${HAXE_LIBCACHE}/peote-view/1.0.4/github/5d080b06350ca215346f2751de382921aaf68853/src/
+-D peote-view=1.0.4
